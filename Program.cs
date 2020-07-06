@@ -83,7 +83,7 @@ namespace rps
                     if(pAgain == 'n'){
                         playing = false;
                         if (pWinCount > cWinCount){
-                            Console.WriteLine("\nFine, I wasnt having fun anyways");
+                            Console.WriteLine("\nFine, I wasnt having fun anyway");
                             }
                             else if(pWinCount == cWinCount){
                                 Console.WriteLine("\nFine, we'll settle this duel later");
