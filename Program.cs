@@ -32,7 +32,7 @@ namespace rps
                     if (num == 0){
                         compChoice = "rock";
                     }
-                    else if(num == 2){
+                    else if(num == 1){
                         compChoice = "paper";
                     }
                     else
